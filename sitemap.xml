@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://docs.rillrate.com/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/dashboard/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/basics/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/basics/intro/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/export/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/export/config/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/usage/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/usage/node/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/usage/python/</loc>
+    </url>
+    <url>
+        <loc>https://docs.rillrate.com/docs/usage/rust/</loc>
+    </url>
+</urlset>
